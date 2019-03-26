@@ -1,2 +1,1 @@
-# RepresentationLearningHW2
-HW2 for IFT6135 2019
+# IFT6135_HW2
